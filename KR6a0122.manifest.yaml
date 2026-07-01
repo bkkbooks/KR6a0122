@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6a0122/v1
+canonical_location: https://kanripo.org/bkk/KR6a0122/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說波斯匿王太后崩塵土坌身經
+  identifiers:
+    alt_id:
+    - T02n0122
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0122.xml
+    old_id: T02n0122
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0122_000.yaml, hash: 'sha256:6b45150faf20ee0b5fcd6252e983829f36a8c258444f81004864947c2ebeaefe'}
+  - {seq: 1, filename: KR6a0122_001.yaml, hash: 'sha256:34700a91dd0e0eb8e22869ee0162f50b42c9da0e42c366199e18d59f43345988'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6a0122_001.markers.yaml, hash: 'sha256:d3424a62fe4786eb02af2af8ec9870525c8a802ccc28fb16227b9f5ca9478e6c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0122_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1180
+  label: '佛說波斯匿王太后崩塵土
+
+    坌身經'
+  type: juan
+  level: 1
+hash: sha256:3ad48663e6a192c75a8f6497f48320ab1e0ea0e7db3f6944ace3fbebf66b17be
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
