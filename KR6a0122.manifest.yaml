@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0122/v1
 canonical_location: https://kanripo.org/bkk/KR6a0122/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說波斯匿王太后崩塵土坌身經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0122_000.yaml, hash: 'sha256:6b45150faf20ee0b5fcd6252e983829f36a8c258444f81004864947c2ebeaefe'}
-  - {seq: 1, filename: KR6a0122_001.yaml, hash: 'sha256:24a37f69a5d3f3260c1e63af6f7488db45e8fe68bccfe34b90333308abfabaeb'}
+  - {seq: 1, filename: KR6a0122_001.yaml, hash: 'sha256:f73fe4e5b48a5d4a250ddba343526d5947c06e9bd3a6bd22eac589b12c413f94'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0122_000.markers.yaml, hash: 'sha256:d301a0aefa66e68aa266bccd061fbbc34d3610f19d4917e090356a4a9dfa3c6c'}
-  - {seq: 1, role: markers, filename: assets/KR6a0122_001.markers.yaml, hash: 'sha256:31412235437a1fc6849269588542ec3ae06cef31fc3026617b36bec4629df153'}
+  - {seq: 1, role: markers, filename: assets/KR6a0122_001.markers.yaml, hash: 'sha256:e5f8801428079f5ccd574ae23209112e5ae469229da5091a7b59531e68d9e739'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,4 +45,7 @@ table_of_contents:
     坌身經'
   type: juan
   level: 1
-hash: sha256:bb6b67494f0889432baca8b06ca779dc16fad1113b44bc1efe133762c85afb30
+hash: sha256:bdfa76124398745a878034d408cadb8d24909ee1d0360e7b7879fcd89b944926
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
