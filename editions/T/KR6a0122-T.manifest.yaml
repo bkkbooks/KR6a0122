@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0122_000-T.yaml, hash: 'sha256:6b45150faf20ee0b5fcd6252e983829f36a8c258444f81004864947c2ebeaefe'}
   - {seq: 1, filename: KR6a0122_001-T.yaml, hash: 'sha256:24a37f69a5d3f3260c1e63af6f7488db45e8fe68bccfe34b90333308abfabaeb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0122_000-T.markers.yaml, hash: 'sha256:3fa2a03bb532c2aebfa6c34aed5348547210c2babf4f41dd187f31a424c4d285'}
+  - {seq: 0, role: markers, filename: assets/KR6a0122_000-T.markers.yaml, hash: 'sha256:7b64e657ecd9578819ddaac72c05ddf29529ce3aba133e627812dafba040d24d'}
   - {seq: 1, role: markers, filename: assets/KR6a0122_001-T.markers.yaml, hash: 'sha256:5f09be44fced79a944f5261fb683f049f10611a7e6a5c6fb060639d833a2d91f'}
 table_of_contents:
 - ref:
@@ -37,4 +37,4 @@ table_of_contents:
     坌身經'
   type: juan
   level: 1
-hash: sha256:1473f70430cd0b10acb768221e48b6099398302ea55ffd8180595cd8c64dd49e
+hash: sha256:81061dc67905331eaa848c5dea59f28f86ee500b41e1863ecda515e7d7aaa79b

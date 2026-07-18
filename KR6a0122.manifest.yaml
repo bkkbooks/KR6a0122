@@ -30,7 +30,7 @@ assets:
   - {seq: 0, filename: KR6a0122_000.yaml, hash: 'sha256:6b45150faf20ee0b5fcd6252e983829f36a8c258444f81004864947c2ebeaefe'}
   - {seq: 1, filename: KR6a0122_001.yaml, hash: 'sha256:f73fe4e5b48a5d4a250ddba343526d5947c06e9bd3a6bd22eac589b12c413f94'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0122_000.markers.yaml, hash: 'sha256:d301a0aefa66e68aa266bccd061fbbc34d3610f19d4917e090356a4a9dfa3c6c'}
+  - {seq: 0, role: markers, filename: assets/KR6a0122_000.markers.yaml, hash: 'sha256:4d0e607e40f634ed27334c61d07b55c437c6c8f3fa57486e88762c5fc841c6ca'}
   - {seq: 1, role: markers, filename: assets/KR6a0122_001.markers.yaml, hash: 'sha256:e5f8801428079f5ccd574ae23209112e5ae469229da5091a7b59531e68d9e739'}
 table_of_contents:
 - ref:
@@ -45,7 +45,7 @@ table_of_contents:
     坌身經'
   type: juan
   level: 1
-hash: sha256:bdfa76124398745a878034d408cadb8d24909ee1d0360e7b7879fcd89b944926
+hash: sha256:14d7a7b5aa68086b6ff75b310a82ed94c8c1b769736abe61fef89783bb65523a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
